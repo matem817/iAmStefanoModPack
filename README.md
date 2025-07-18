@@ -1,3 +1,3 @@
-# iAmStefanoModPack
+# matem's ModPacks
 
-this is just a mod pack for a server with friends, i do not claim ownership of any of the mods here and i disencurage you from downloading this mods from here
+I use this repository to share minecraft modpacks with my friends, you should not use this Modpacks or download mods from here as it takes away downlods from the creators that can help them grow.
